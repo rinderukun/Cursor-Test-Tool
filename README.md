@@ -1,6 +1,8 @@
 # Cursor Test Tool
 Just a small program to test the state of the icon mouse cursor
 
+## Prepare
+
 ### Create virtual venv:
 
 ```
